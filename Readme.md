@@ -40,3 +40,59 @@ Company Site/
 │   ├── images/ (team photos, icons, banners)
 
 │   └── fonts/ (optional)
+
+Key Features and Pages:
+1. Homepage (index.html)
+
+Hero section with company slogan and CTA button
+
+Overview of services offered
+
+Key statistics (clients served, years of experience)
+
+Call-to-action for consultation or contact
+
+2. About Page (about.html)
+
+Company history and mission statement
+
+Timeline or milestone highlights
+
+Leadership or team introduction section with images
+
+3. Services Page (services.html)
+
+Grid or card layout of services with brief descriptions
+
+Icons or illustrations to represent each service
+
+JavaScript-powered service filter or accordion (optional)
+
+4. Contact Page (contact.html)
+
+Contact form with fields: name, email, subject, message
+
+JavaScript form validation
+
+Embedded Google Map and contact information (email, phone, location)
+
+
+Design & UX Highlights:
+
+Responsive Layout: Fully functional across desktop, tablet, and mobile devices
+
+Modern Look: Clean typography, consistent color scheme, and corporate branding
+
+Smooth UI Interactions: JavaScript enhances form validation, menu toggle, and scroll effects
+
+Accessibility-Friendly: Semantic HTML elements and alt tags for images
+
+
+Outcome:
+
+A polished and professional company website showcasing brand identity and services
+
+Demonstrates strong front-end development skills using HTML, CSS, and JavaScript
+
+A great portfolio project for clients or employers seeking corporate, product, or service-based website development
+
