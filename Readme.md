@@ -14,3 +14,29 @@ Technologies Used:
 **CSS3** and **Bootstrap** – For styling, layout, and responsive design
 
 **JavaScript** (Vanilla JS) – For UI interactions like toggles, form validation, and animations
+
+File Structure:
+
+Company Site/
+
+├── index.html
+
+├── about.html
+
+├── services.html
+
+├── contact.html
+
+├── css/
+
+│   └── style.css
+
+├── js/
+
+│   └── script.js
+
+├── assets/
+
+│   ├── images/ (team photos, icons, banners)
+
+│   └── fonts/ (optional)
